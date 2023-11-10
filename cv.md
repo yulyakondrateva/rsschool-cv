@@ -1,5 +1,7 @@
 # Yulya Kondrateva
 
+![Yulya's Photo](./photo.jpeg){width="150"}
+
 ***
 
 ## Contacts
