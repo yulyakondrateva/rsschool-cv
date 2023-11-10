@@ -19,3 +19,19 @@ I am now advancing my skills by pursuing further education in front-end developm
 * Python, JavaScript
 * HTML, SCC
 * Git, VS Code
+
+***
+## Code Example
+
+```javascript
+function positiveSum(arr) {
+  sum = 0;
+  for(var i = 0; i < arr.length ; i++){
+    if( arr[i] > 0 ){
+      sum = sum + arr[i]
+    }
+  }    
+  return sum;
+}
+```
+
