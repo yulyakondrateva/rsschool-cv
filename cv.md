@@ -1,6 +1,6 @@
 # Yulya Kondrateva
 
-![Yulya's Photo](./photo.jpeg){width="150"}
+![Yulya's Photo](./photo.png)
 
 ***
 
