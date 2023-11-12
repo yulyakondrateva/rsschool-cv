@@ -53,7 +53,10 @@ None
 ## Education
 
 Courses:
-- __[GeekBrains](https://gb.ru/)__ ([Python Test Automation Developer](./geekbrains-certificate.pdf))
+- __GeekBrains__: [Python Test Automation Developer](./geekbrains-certificate.pdf)
+- __Stepik__: [Basics of HTML & CSS](https://stepik.org/course/52164/syllabus)
+- __Stepik__: [JavaScript for Beginners](https://stepik.org/course/2223/syllabus)
+- __Stepik__: [Python for Beginners](https://stepik.org/course/58852/syllabus)
 
 ***
 
