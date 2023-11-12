@@ -30,6 +30,10 @@ I am now advancing my skills by pursuing further education in front-end developm
 
 ## Code Example
 
+__Task:__ You get an array of numbers, return the sum of all of the positives ones.
+
+__Note:__ if there is nothing to sum, the sum is default to 0.
+
 ```javascript
 function positiveSum(arr) {
   sum = 0;
