@@ -1,0 +1,37 @@
+body {
+    padding: 0px 100px;
+}
+
+.avatar {
+    width: 250px;
+    height: 250px;
+    margin: 50px;
+    border-radius: 50%;
+}
+
+.name {
+    text-align: left;
+    margin-right: 250px;
+    text-indent: 10%;
+    margin-top: 80px;
+}
+
+.cv-block {
+    display: flex;
+    align-content: start;
+    margin: 30px 0px;
+
+}
+
+.cv-item {
+    display: inline-block;
+    width: 50%;
+}
+
+h1 {
+    color:dimgray;
+}
+
+h2 {
+    color:indianred;
+}
